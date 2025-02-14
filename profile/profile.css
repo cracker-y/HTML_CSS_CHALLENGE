@@ -1,0 +1,36 @@
+* {
+    text-align: center;
+    color: tomato;
+}
+
+html {
+    background-image: url("./images/ashwini-chaudhary-monty-K2WqipFtQC8-unsplash.jpg");
+    background-size: 800px;
+    background-repeat: no-repeat;
+    background-color: rgb(236, 221, 203);
+}
+
+body {
+    width: 640px;
+    margin: auto; /* 너비에서 남는 여백을 동일하게 분배*/
+}
+
+h1 {
+    font-size: 48px;
+}
+
+
+
+img#rc-info{
+    width: 300px;
+    border-radius: 10px;
+}
+
+img#rc-car {
+    width: 300px;
+    border-radius: 100px 10px 250px 200px;
+}
+
+p {
+    font-size: 16px;
+}
